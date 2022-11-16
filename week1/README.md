@@ -1,7 +1,7 @@
 # Assignment
 
-In this folder is a text file named `images.txt`, the file has a list of 5 images. 
-The script you are writing should download all five of the images in the file.
+In this folder is a text file named `images.txt`, the file has urls to 5 images. 
+The script you are writing should download all five of the images in the `images.txt` file.
 
 # Some hints:
 - You need to figure out how to read the txt file
