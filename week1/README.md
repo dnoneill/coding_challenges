@@ -1,8 +1,17 @@
+# Assignment
+
 In this folder is a text file named `images.txt`, the file has a list of 5 images. 
 The script you are writing should download all five of the images in the file.
 
-Some hints:
+# Some hints:
 - You need to figure out how to read the txt file
 - You need to figure out how to convert the file to a [list](https://www.w3schools.com/python/python_lists.asp)
-- You will need to iterate over the list
+- You will need to iterate over the list to download each image
 - You will need to download the url contents using a library. The library `urllib.request` will do this or another library. It is not required to use this library. If you get stuck with this library, try searching for another library/combination. Google and Stack Overflow are your friends if you get stuck here.  
+
+
+# Optional 
+1. Try adding new images to the images.txt file. Does the script still work? If it doesn't figure out what might have gone wrong.
+2. Try adding an extra space to the end of each line in the images.txt file. Does it break your results? If so how do you fix that?
+3. Try writing the files to a specific folder. 
+4. Try writing the files to a folder you create through the script. (The os library is very handy for creating folders and checking to see if they exist)
