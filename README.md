@@ -1,1 +1,1 @@
-# hiva_coding_challenges
+# coding_challenges
